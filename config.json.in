@@ -1,0 +1,6 @@
+{
+  "HOSTNAME": "ddns",
+  "DOMAIN": "example.com",
+  "TTL": 30,
+  "APIKEY": "my_api_key"
+}
